@@ -25,10 +25,6 @@ using std::cout; using std::cin; using std::vector; using std::string; using std
 // had to remove falling and just let user control the block
 // did not add differing blocks because i would rather die
 
-// i don't even care anymore if this pile of trash is broken
-// i can't stand not creating something; i must make this day of importance
-// i can't stop doing this
-
 // 11/5/2022
 // finished, currently very happy
 
