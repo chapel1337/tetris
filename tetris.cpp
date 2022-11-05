@@ -15,8 +15,6 @@ using std::cout; using std::cin; using std::vector; using std::string; using std
 // did not add differing blocks because i would rather die
 
 // i don't even care anymore if this pile of trash is broken
-// i can't stand not creating something; i must make this day of importance
-// i can't stop doing this
 
 vector<vector<char>> map{ 
 	{ ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', }, 
